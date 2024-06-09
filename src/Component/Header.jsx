@@ -22,7 +22,7 @@ const Header = () => {
             </ul>
             {/* <!-- Hamburger menu --> */}
             
-            <label for="ham-menu">
+            <label htmlFor="ham-menu">
                 <i className="fa-solid fa-bars"></i>
             </label>
             <input type="checkbox" id="ham-menu"></input>
